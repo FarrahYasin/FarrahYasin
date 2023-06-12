@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&duration=6000&color=5C469C&background=E5F9FF00&center=true&vCenter=true&multiline=true&size=60&width=450&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Farah+Yasin+💎+;I'm+a+Software+Engineer+💜)](https://git.io/typing-svg) -->
 <!-- font-family: Papyrus, fantasy -->
 <!-- font=Italianno -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&duration=6000&color=5C469C&background=E5F9FF00&center=true&font=Italianno&vCenter=true&size=33&multiline=true&width=450&height=60&lines=Hi+I'm+Farah+Yasin+💜+;I'm+a+Software+Engineer+💻✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&duration=6000&color=5C469C&background=E5F9FF00&center=true&vCenter=true&size=33&multiline=true&width=450&height=60&lines=Hi+I'm+Farah+Yasin+💜+;I'm+a+Software+Engineer+💻✨)](https://git.io/typing-svg)
 <br/>
+<br/>
+
 <!-- <h4 align="center" ><samp>Hi there I'm Farah Yasin👑! I'm 𝚊 Software Engineer💜 </samp></h4> -->
 <!-- <br/> -->
 <h3><samp>I’m currently learning JavaScript language 😎💻</samp></h3> 
