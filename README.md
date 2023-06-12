@@ -26,16 +26,13 @@ Here are some ideas to get you started:
 <!-- <h4 align="center" ><samp>Hi there I'm Farah Yasin👑! I'm 𝚊 Software Engineer💜 </samp></h4> -->
 <!-- <br/> -->
 <h4><samp>I’m currently learning JavaScript language 😎💻</samp></h4> 
-<br/>
-<p>
- <h3><samp>𝙵𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗</samp></h3> 
 
+ <h3><samp>𝙵𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗</samp></h3> 
 <a 
 href="https://github.com/FarrahYasin" target="_blank"><img alt="Github" 
 src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
 href="https://www.linkedin.com/in/farah-yasin-89690724b/" target="_blank"><img alt="LinkedIn" 
 src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
- </p>
 <br />
 <br />
 
