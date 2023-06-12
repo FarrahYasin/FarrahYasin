@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<h4><samp>I’m currently learning JavaScript language 😎💻</samp></h4> 
+<h4><samp align="center">I’m currently learning JavaScript language 😎💻</samp></h4> 
 
