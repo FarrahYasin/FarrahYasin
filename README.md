@@ -39,7 +39,6 @@ src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&lo
 
 
  <h3 align="center"><samp>
-
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
   ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
   ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
