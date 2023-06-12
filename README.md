@@ -19,29 +19,9 @@ Here are some ideas to get you started:
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&duration=6000&color=5C469C&background=E5F9FF00&center=true&vCenter=true&multiline=true&size=60&width=450&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Farah+Yasin+💎+;I'm+a+Software+Engineer+💜)](https://git.io/typing-svg) -->
 <!-- font-family: Papyrus, fantasy -->
 <!-- font=Italianno -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&duration=6000&color=5C469C&background=E5F9FF00&center=true&vCenter=true&multiline=true&width=450&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Farah+Yasin+💜+;I'm+a+Software+Engineer+💻✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&duration=6000&color=5C469C&background=E5F9FF00&center=true&vCenter=true&multiline=true&width=450&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Farah+Yasin+💜+;I'm+a+Software+Engineer+✨💻)](https://git.io/typing-svg)
 <br/>
 <br/>
 
-<!-- <h4 align="center" ><samp>Hi there I'm Farah Yasin👑! I'm 𝚊 Software Engineer💜 </samp></h4> -->
-<!-- <br/> -->
 <h4><samp>I’m currently learning JavaScript language 😎💻</samp></h4> 
 
-<!--  <h3><samp>𝙵𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗</samp></h3> 
-<a 
-href="https://github.com/FarrahYasin" target="_blank"><img alt="Github" 
-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
-href="https://www.linkedin.com/in/farah-yasin-89690724b/" target="_blank"><img alt="LinkedIn" 
-src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
-<br />
-<br />
-
-<br />
-
-
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-  ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-  ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-000?&logo=React)
- -->
