@@ -36,6 +36,7 @@ src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&lo
 <br />
 <br />
 
+<br />
 
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
