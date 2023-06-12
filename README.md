@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h3><samp>I’m currently learning JavaScript language 😎💻</samp></h3> 
 
 <br/>
-<h3><samp>𝙵𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗</samp></h3> 
+<h3 width='450'&height='60'><samp>𝙵𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗</samp></h3> 
 <p><a 
 href="https://github.com/FarrahYasin" target="_blank"><img alt="Github" 
 src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
