@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- <br/> -->
 <h3><samp>I’m currently learning JavaScript language 😎💻</samp></h3> 
 <br/>
-<p><h3 align="center"><samp align="center">𝙵𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗</samp></h3> 
+<p><h3><samp align="center">𝙵𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗</samp></h3> 
 <a align="center"
 href="https://github.com/FarrahYasin" target="_blank"><img alt="Github" 
 src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
