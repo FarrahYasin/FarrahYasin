@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- <br/> -->
 <h4><samp>I’m currently learning JavaScript language 😎💻</samp></h4> 
 
- <h3><samp>𝙵𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗</samp></h3> 
+<!--  <h3><samp>𝙵𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗</samp></h3> 
 <a 
 href="https://github.com/FarrahYasin" target="_blank"><img alt="Github" 
 src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
@@ -44,3 +44,4 @@ src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&lo
   ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
   ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
   ![React](https://img.shields.io/badge/-React-000?&logo=React)
+ -->
